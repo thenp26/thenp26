@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**thenp26/thenp26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm Prakash K G
 
-Here are some ideas to get you started:
+🎓 I’m a 3rd-year Electronics and Communication Engineering (ECE) student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about:
+- Python programming 🐍
+- VLSI design 🧠
+- Microcontrollers and embedded systems 🔧
+
+🚀 Always learning and exploring tech that bridges hardware and software.
+
+📫 Let’s connect and build cool stuff together!
