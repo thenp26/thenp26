@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prakash K G
 
-🎓 I’m a 3rd-year Electronics and Communication Engineering (ECE) student.
+🎓 I’m a Final YearElectronics and Communication Engineering (ECE) student.
 
 💡 Passionate about:
 - Python programming 🐍
