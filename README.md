@@ -1,14 +1,22 @@
 # 👋 Hi, I'm Prakash K G
 
-🎓 I’m a Final YearElectronics and Communication Engineering (ECE) student.
+### 🚀 Aspiring AI & Machine Learning Engineer
 
-💡 Passionate about:
-- Python programming 🐍
-- VLSI design 🧠
-- Microcontrollers and embedded systems 🔧
+🎓 I'm a Final Year Electronics and Communication Engineering (ECE) student with a passion for building intelligent systems. My unique strength is bridging the gap between hardware and software.
 
-🚀 Always learning and exploring tech that bridges hardware and software.
+💡 I am currently executing a self-driven, intensive  plan to master the full stack of Machine Learning, from data pre-processing to model deployment.
 
-📫 Let’s connect and build cool stuff together!
+---
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/prakash-k-g-82bb31357)
+### 💻 My Tech Stack
+
+* **Languages:** Python, C, Verilog
+* **Skills:** Full Stack Developer
+* **Data Science & ML:** Pandas, NumPy, Scikit-learn, Matplotlib, OpenCV
+* **Backend:** Node.js, Flask
+* **Hardware:** Arduino, ESP32, Verilog (learning)
+
+---
+
+
+🔗 **[Connect with me on LinkedIn](https://www.linkedin.com/in/prakash-k-g-82bb31357)**
