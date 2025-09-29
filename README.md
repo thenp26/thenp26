@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Prakash K G
 
-### 🚀 AI & Computer Vision Engineer | ECE Student | Co-founder @ DuckData
+### 🚀 AI & Computer Vision Engineer | ECE Student | DuckData
 
-I'm a final-year Electronics and Communication Engineering student.
+I'm a just noob devops developer and final-year Electronics and Communication Engineering student.
 
 ---
 
